@@ -30,6 +30,6 @@
         }
     ],
     "files": [
-        "text_tips.js"
+        "jquery.text_tips.js"
     ]
 }

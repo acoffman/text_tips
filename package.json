@@ -1,0 +1,35 @@
+{
+    "name": "text_tips",
+    "version": "1.0.0",
+    "title": "TextTips",
+    "author": {
+        "name": "Adam Coffman",
+        "url": "http://thecoffman.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.7"
+    },
+    "description": "This is a very lightweight plugin that will render inline help text on text input fields. The text disappears when the input is clicked on and reappears on blur, unles the user has entered something.",
+    "keywords": [
+        "text",
+        "input",
+        "help text",
+        "inline"
+    ],
+    "homepage": "https://github.com/thecoffman/text_tips",
+    "contributors": [
+        {
+            "name": "Adam Coffman",
+            "url": "http://thecoffman.com"
+        }
+    ],
+    "files": [
+        "text_tips.js"
+    ]
+}

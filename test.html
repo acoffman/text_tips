@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Text Tips Test</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <script src="text_tips.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+          $("input[type=text]").text_tips();
+      });
+    </script>
+  </head>
+  <body>
+    <form accept-charset="UTF-8">
+      <input title="some help text" type="text">
+      <input title="different text here" type="text">
+      <input name="commit" type="submit" value="Submit">
+    </form>
+  </body>
+</html>

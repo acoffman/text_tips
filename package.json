@@ -13,7 +13,7 @@
         }
     ],
     "dependencies": {
-        "jquery": ">=1.7"
+        "jquery": ">=1.7.0"
     },
     "description": "This is a very lightweight plugin that will render inline help text on text input fields. The text disappears when the input is clicked on and reappears on blur, unles the user has entered something.",
     "keywords": [

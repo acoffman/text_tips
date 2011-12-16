@@ -34,9 +34,9 @@ You can specify either, both, or neither of these two options and TextTips will 
 
     $('input[type=text]').text_tips({inputClass: 'help'});
 
-Preview
+Demo
 ------------
-Coming soon, need to make a .gif file
+[See it in action](http://thecoffman.com/text_tips)
 
 
 Author
